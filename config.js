@@ -29,7 +29,7 @@ export const logo = <img src={`${LOGO_URL}`} alt="Logo" className="h-[75px] w-[7
 export const APP_NAME = 'Talented Baby Squirrel';
 export const NavbarName = "Talented Baby Squirrel";
 
-export const APP_DESCRIPTION = `Read ${MANGA_NAME} manga online at ${DOMAIN}. It is a fantasy romance webcomic. The story follows a character who reincarnates as a squirrel shifter and gets a second chance at life.  This time, they're welcomed by their biological family and possess a hidden talent waiting to be discovered.`;
+export const APP_DESCRIPTION = `Read ${MANGA_NAME} manhwa or manga all chapters online. It is a fantasy romance webcomic. The story follows a character who reincarnates as a squirrel shifter and gets a second chance at life.  This time, they're welcomed by their biological family and possess a hidden talent waiting to be discovered.`;
 
 export const DISQUS_SHORTNAME = "my-cms-7";
 

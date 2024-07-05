@@ -27,7 +27,7 @@ export default function Chapter({ chapterNumber, imageUrls, totalChapters, param
     const nextChapter = chapterIndex < totalChapters - 1 ? chaptersData[chapterIndex + 1].chapterNumber : null;
 
 
-    const DESCRIPTION = `Read ${MANGA_NAME} chapter ${chapterNumber} online.`
+    const DESCRIPTION = `Read ${MANGA_NAME} chapter ${chapterNumber} online. A baby squirrel born with extraordinary abilities and a charming personality. Set in a vibrant woodland setting, the novel captures the innocence and curiosity of youth as the baby squirrel embarks on a journey of self-discovery and growth.`
     const URL = params.chapter;
 
 
