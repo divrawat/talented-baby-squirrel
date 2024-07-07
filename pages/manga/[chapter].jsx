@@ -77,7 +77,7 @@ export default function Chapter({ chapterNumber, imageUrls, totalChapters, param
 
 
     const handleRedirect = () => {
-        window.open('https://thampolsi.com/4/7457654', '_blank');
+        window.open('https://pheerseex.net/4/7647881', '_blank');
     };
 
     return (
