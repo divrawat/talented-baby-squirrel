@@ -1,6 +1,6 @@
 
 // export const DOMAIN = 'http://localhost:3000';
-export const DOMAIN = 'https://www.talentedbabysquirrel.in.net';
+export const DOMAIN = 'https://talentedbabysquirrel.in.net';
 
 export const MANGA_DESCRIPTION = `<a href="${DOMAIN}"><u>Talented Baby Squirrel</u></a> is a fantasy romance webcomic. The story follows a character who reincarnates as a squirrel shifter and gets a second chance at life.  This time, they're welcomed by their biological family and possess a hidden talent waiting to be discovered.`;
 
